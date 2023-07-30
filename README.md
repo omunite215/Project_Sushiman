@@ -1,12 +1,12 @@
 # Sushiman - A Sushi Ordering Landing Page
 
-![Screenshot 2023-05-09 111911](https://user-images.githubusercontent.com/78680563/237005660-02f278b4-68c0-468e-ab7b-79e52e8433fe.png)
+![sushiman](https://github.com/omunite215/Sushiman/assets/78680563/e80884ab-9ee8-4545-8d98-a6341c372d7e)
 
 This is my project using Vite
 
 A website which is a landing page of a Sushi restaurant displaying its varities of Japanese Food, Services, many more.
 
-This Project is hosted in Netlify : [Analytics](https://analyticsbyom.netlify.app/)
+This Project is hosted in Netlify : [Sushiman](https://sushimanbyom.netlify.app/)
 
 # Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
@@ -78,8 +78,6 @@ Specializations:
 ## Other Common Github Profile Sections
 
 👯‍♀️ I'm looking to collaborate on Front-End Web Dev Projects on React.JS
-
-
 
 
 ## Feedback
